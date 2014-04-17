@@ -1,0 +1,23 @@
+#UTX 1.11; en/de; 2014-03-31T17:18:15; copyright: BYU TRG; license: CC BY license can be freely copied and modified; Dictionary ID: D001;
+#description: A TBX-Min example containing two concept entries with multiple terms in two languages (English and Spanish);
+#src	tgt	src:pos	tgt:pos	term status	src:comment	tgt:comment	customer	concept ID
+money	Geld	noun	noun	approved	may refer to physical or banked currency		TRG	C001
+money	Bargeld	noun	noun	provisional	may refer to physical or banked currency	refers to physical currency	TRG	C001
+money	Knete	noun	noun	provisional	may refer to physical or banked currency	a slang term for Geld, has no plural	TRG	C001
+money	Kohle	noun	noun	non-standard	may refer to physical or banked currency	an older slang form used shortly after WW2	TRG	C001
+cash	Geld	noun	noun	approved	refers to physical currency		TRG	C001
+cash	Bargeld	noun	noun	provisional	refers to physical currency	refers to physical currency	TRG	C001
+cash	Knete	noun	noun	provisional	refers to physical currency	a slang term for Geld, has no plural	TRG	C001
+cash	Kohle	noun	noun	non-standard	refers to physical currency	an older slang form used shortly after WW2	TRG	C001
+dough	Geld	noun	noun	approved	a more recent slang synonym		TRG	C001
+dough	Bargeld	noun	noun	provisional	a more recent slang synonym	refers to physical currency	TRG	C001
+dough	Knete	noun	noun	provisional	a more recent slang synonym	a slang term for Geld, has no plural	TRG	C001
+dough	Kohle	noun	noun	non-standard	a more recent slang synonym	an older slang form used shortly after WW2	TRG	C001
+bread	Geld	noun	noun	approved	a older slang synonym		TRG	C001
+bread	Bargeld	noun	noun	provisional	a older slang synonym	refers to physical currency	TRG	C001
+bread	Knete	noun	noun	provisional	a older slang synonym	a slang term for Geld, has no plural	TRG	C001
+bread	Kohle	noun	noun	non-standard	a older slang synonym	an older slang form used shortly after WW2	TRG	C001
+music	Musik	noun	noun	approved	may mean music in general or may mean an instance of music ("Let's play music")		TRG	C002
+music	Mucke	noun	noun	non-standard	may mean music in general or may mean an instance of music ("Let's play music")	slang term for music, specifically the making of, used mostly by musicians (i.e. Haben wir 'ne Mucke!")	TRG	C002
+jam	Musik	noun	noun	approved	slang for music, specifically the making of, used mostly by musicians (i.e. "Let's have a jam!") 		TRG	C002
+jam	Mucke	noun	noun	non-standard	slang for music, specifically the making of, used mostly by musicians (i.e. "Let's have a jam!") 	slang term for music, specifically the making of, used mostly by musicians (i.e. Haben wir 'ne Mucke!")	TRG	C002
